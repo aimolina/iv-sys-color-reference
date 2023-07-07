@@ -1,0 +1,176 @@
+{
+  "version": "1.0.3",
+  "metadata": {},
+  "collections": [
+    {
+      "name": "Buttons",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "variables": [
+            {
+              "name": "Extra/iv-sys-color-button-extra-stroke",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Extra/iv-sys-color-button-extra-background-press",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Warning/color-warning-600"
+              }
+            },
+            {
+              "name": "Extra/iv-sys-color-button-extra-background-focus",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Warning/color-warning-500-brand"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-stroke-press",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-background-press",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-300"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-stroke-focus",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-primary-text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Base/color-white"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-background-hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-300"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-text-default",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-primary-background-default",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-background-default",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-200"
+              }
+            },
+            {
+              "name": "Extra/iv-sys-color-button-extra-text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-background-disable",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Gray/color-gray-300"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-primary-background-press",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-600"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-primary-background-focus",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-500-brand"
+              }
+            },
+            {
+              "name": "Secondary/iv-sys-color-button-secondary-background-focus",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-200"
+              }
+            },
+            {
+              "name": "Extra/iv-sys-color-button-extra-background-default",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Warning/color-warning-500-brand"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-primary-background-hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-600"
+              }
+            },
+            {
+              "name": "Extra/iv-sys-color-button-extra-background-hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Warning/color-warning-600"
+              }
+            },
+            {
+              "name": "Primary/iv-sys-color-button-primary-stroke-focus",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "Primary/color-primary-300"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
